@@ -9,7 +9,10 @@ Eu sou o Mário! Sou graduado, mestre e (quase) doutor em Física pela Universid
 
 Recentemente, tenho colocado aqui alguns dos meus principais projetos. Fiquem ligados!
 
-O meu projeto que foi mais trabalhoso (mas que também foi o mais recompensador) o que está no repositório 
+O meu projeto que foi mais trabalhoso (mas que também foi o mais recompensador) o que está no repositório https://github.com/mariohfdonato/Previsibilidade-de-Series-Temporias
+Nele está alguns dos resultados que obtive ao criar um modelo de Deep Learning para prever o preço futuro de ações.
+
+Minhas linguagens: python, c, fortran, javascript.
 
 Estou em busca de emprego na área de Dados. 
 LinkedIn: https://www.linkedin.com/in/mariohfdonato/
