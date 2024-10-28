@@ -3,8 +3,11 @@
 Eu sou o Mário! Sou graduado, mestre e (quase) doutor em Física pela Universidade de São Paulo. Depois de 10 anos de experiência em tópicos avançados de Física e Matemática, especialmente no estudo de sistemas estocásticos (isto é, aleatórios), tenho me dedicado a aprender e trabalhar com aplicações práticas de Data Science, Machine Learning (principalmente Deep Learning) com interesse comercial. 
 
 🔭 Atualmente estou terminando meu trabalho de doutorado e procurando emprego na área de Dados.
+
 🌱 Estou aprendendo mais aplicações de Machine/Deep Learning e também como elas funcionam debaixo dos panos...
+
 ⚡ Tenho conhecimento bastante avançado de modelos matemáticas e estatística, e amo usar esses conhecimentos para encontrar soluções para problemas da vida real.
+
 ⚡ Sou apaixonado por resolver problemas difíceis que ninguém nunca pensou em resolver (isso já me gerou até algumas publicações em periódicos científicas em Física).
 
 Recentemente, tenho colocado aqui alguns dos meus principais projetos. Fiquem ligados!
@@ -14,8 +17,10 @@ Nele está alguns dos resultados que obtive ao criar um modelo de Deep Learning 
 
 Minhas linguagens: python, c, fortran, javascript.
 
-Estou em busca de emprego na área de Dados. 
+Estou em busca de emprego na área de Dados.
+
 LinkedIn: https://www.linkedin.com/in/mariohfdonato/
+
 e-mail: mariohfdonato@gmail.com
 <!--
 **mariohfdonato/mariohfdonato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
