@@ -6,7 +6,7 @@ Eu sou o Mário! Sou graduado, mestre e (quase) doutor em Física pela Universid
 
 🌱 Estou aprendendo mais aplicações de Machine/Deep Learning e também como elas funcionam debaixo dos panos...
 
-⚡ Tenho conhecimento bastante avançado de modelos matemáticas e estatística, e amo usar esses conhecimentos para encontrar soluções para problemas da vida real.
+⚡ Tenho conhecimento bastante avançado de modelagem matemáticas e estatística, e amo usar esses conhecimentos para encontrar soluções para problemas da vida real.
 
 ⚡ Sou apaixonado por resolver problemas difíceis que ninguém nunca pensou em resolver (isso já me gerou até algumas publicações em periódicos científicas em Física).
 
